@@ -4,8 +4,7 @@
 ```bash
 # Build and start the services
 docker-compose up --build
-
-```bash
+```
 
 Without Docker
 Backend
