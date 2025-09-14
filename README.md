@@ -4,6 +4,9 @@
 ```bash
 # Build and start the services
 docker-compose up --build
+
+```bash
+
 Without Docker
 Backend
 bash
@@ -26,7 +29,7 @@ npm run build
 npm start
 Frontend
 bash
-Copiar código
+
 # Navigate to the frontend folder
 cd frontend
 
