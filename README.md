@@ -11,7 +11,9 @@ Backend
 bash
 Copiar código
 # Navigate to the backend folder
+``bash
 cd backend
+```
 
 # Install dependencies
 npm install
